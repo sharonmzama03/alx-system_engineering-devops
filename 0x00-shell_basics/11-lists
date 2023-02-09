@@ -1,0 +1,6 @@
+#!/bin/bash
+sharon@ubuntu:/alx-system_engineering-devops
+sharon@ubuntu:/alx-system_engineering-devops: ls
+10-back  9-firstdirdeletion 8-firstdelete  7-movethatfile
+6-firstdirectory  5-listfilesdigitonly  4-listmorefiles
+3-listfiles  2-bring_me_home
