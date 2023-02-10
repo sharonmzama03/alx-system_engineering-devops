@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -u * html.. Copy allhtml files from the current directory to the parent directory, but only copy files that didnt exist in the parent directory or newer versions than the ones that already exist in the parent directory.

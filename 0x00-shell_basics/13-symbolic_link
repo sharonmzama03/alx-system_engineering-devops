@@ -1,2 +1,0 @@
-#!/bin/bash
-in -s/bin/ls ~ls~creats a symbolic link named LS for bin/ls
